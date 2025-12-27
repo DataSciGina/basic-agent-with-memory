@@ -43,6 +43,8 @@ The main goal of this project is to explore how conversational context can be st
 
 ## ▶️ How to Run the Project
 
+You can visit the (deployed version)[https://basic-agent-with-memory.streamlit.app/] or run it in local following the next steps:
+
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/DataSciGina/basic-agent-with-memory.git
